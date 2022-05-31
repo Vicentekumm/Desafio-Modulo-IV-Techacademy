@@ -1,2 +1,2 @@
-# Desafio-Modulo-V-Techacademy
-Segue meu projeto referente ao desafio dos estudos do modulo V no curso da Tech Academy.
+# Desafio-Modulo-IV-Techacademy
+Segue meu projeto referente ao desafio dos estudos do modulo IV no curso da Tech Academy.
